@@ -1,0 +1,9 @@
+.env
+__pycache__/
+venv/
+*.pyc
+.streamlit/
+data/qdrant_local/
+data/pdfs/*.pdf
+!data/pdfs/.gitkeep
+.DS_Store

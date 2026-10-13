@@ -1,0 +1,13 @@
+langchain==0.3.13
+langchain-groq==0.2.2
+langchain-text-splitters==0.3.4
+qdrant-client==1.12.1
+fastembed>=0.8.0
+pypdf==5.1.0
+streamlit>=1.56.0
+pydantic>=2.13.0
+pydantic-core>=2.46.0
+python-dotenv==1.0.1
+numpy
+pandas>=3.0.3
+truststore
